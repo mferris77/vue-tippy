@@ -91,6 +91,6 @@
     ],
     "dependencies": {
         "humps": "^2.0.1",
-        "tippy.js": "^4.3.5"
+        "tippy.js": "^6.2.5"
     }
 }
